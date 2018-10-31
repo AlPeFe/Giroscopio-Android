@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamDroid2.0", "GamDroid2.0\GamDroid2.0.csproj", "{A4610B4E-5CB0-4015-8CB6-7EC04306E52E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4610B4E-5CB0-4015-8CB6-7EC04306E52E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4610B4E-5CB0-4015-8CB6-7EC04306E52E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4610B4E-5CB0-4015-8CB6-7EC04306E52E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A4610B4E-5CB0-4015-8CB6-7EC04306E52E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4610B4E-5CB0-4015-8CB6-7EC04306E52E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4610B4E-5CB0-4015-8CB6-7EC04306E52E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6FA9236-0DB1-4E47-A548-74597C16B026}
+	EndGlobalSection
+EndGlobal
